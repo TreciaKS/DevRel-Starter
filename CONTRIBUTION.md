@@ -7,7 +7,7 @@
 
 ## How to make a pull request 🤔
 
-**1.** Fork [this]([repo](https://github.com/TreciaKS/DevRel-Starter) repository.
+**1.** Fork [this](https://github.com/TreciaKS/DevRel-Starter) repo repository.
 
 **2.** Clone the forked repository.
 
