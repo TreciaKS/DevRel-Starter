@@ -1,13 +1,13 @@
 ## How to Contribute 🚀
 
-- Please create an [issue](issues) before creating a pull request.
+- Please create an issue before creating a pull request.
 - Fork the repository and create a branch for any issue that you are working on.
 - Create a pull request which will be reviewed and suggestions would be provided.
 - Add Screenshots to help us know what changes you have done.
 
 ## How to make a pull request 🤔
 
-**1.** Fork [this](repo) repository.
+**1.** Fork [this]([repo](https://github.com/TreciaKS/DevRel-Starter) repository.
 
 **2.** Clone the forked repository.
 
