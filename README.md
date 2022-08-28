@@ -8,6 +8,14 @@
 # List Of People In DevRel
 - [Discover new people to follow](https://github.com/TreciaKS/DevRel-Starter/blob/main/PEOPLE_IN_DEVREL.md)
 
+# YouTube Videos
+- [Based on creators around DevRel. You'll find vlogs, meetups and roadmaps](https://github.com/TreciaKS/DevRel-Starter/blob/main/DevRelTube.md)
+
+# DevRel Communities
+- [DevRel | Developer Advocate](https://twitter.com/i/communities/1518598860435718144)
+- [DevRel Community](https://twitter.com/i/communities/1514267854451122177)
+- [Developer Avocados](https://twitter.com/i/communities/1492185849878007809)
+
 # DevRel Courses
 - [Learn DevRel](https://learndevrel.com/discovery)
 - [Developer Relations Fundamentals](https://www.udemy.com/course/developer-relations-fundamentals-devrel-masterclass-course/)
@@ -16,9 +24,15 @@
 - [Developer Relations Fundamentals](https://www.freecoursesites.us/developer-relations-fundamentals-devrel-masterclass-2022/)
 - [Developer Relations Fundementals - DevRel Masterclass](https://www.freecoursesites.us/developer-relations-fundamentals-devrel-masterclass-2022/)
 
-# YouTube Videos
-- [Based on creators around DevRel. You'll find vlogs, meetups and roadmaps](https://github.com/TreciaKS/DevRel-Starter/blob/main/DevRelTube.md)
-
+# DevRel Newsletters
+- [Developer Relations](https://developerrelations.com/newsletter)
+- [DevRelX.com](https://us1.campaign-archive.com/home/?u=f5cdd9d9e59e9c39c83d7b50f&id=2db50cd596)
+- [Developer Newsletter](https://www.contentful.com/blog/tag/developer-newsletter/)
+- [Devrel Weekely](https://devrelweekly.com/)
+- [DX Tips: The DevTools Magazine](https://dx.tips/newsletter)
+- [Tessa Kriesel](https://www.tessakriesel.com/)
+- [DevRel News](https://devrelnews.com/)
+- 
 # DevRel Jobs 
 - [Jobs In Devrel](https://twitter.com/JobsInDevRel?s=20&t=xkf0oR_2hMOCEANMP_a9DQ)
 - [DevRel.jobs](https://twitter.com/DevRel_Jobs?s=20&t=xkf0oR_2hMOCEANMP_a9DQ)
@@ -31,20 +45,6 @@
 - [JobsInDevrel.com](https://jobsindevrel.com/place/remote)
 - [Devrel Collective](https://devrelcollective.fun/#jobs)
 - [DevRel Weekely Jobs](https://raindrop.io/mary27/dev-rel-weekly-jobs-10525990)
-
-# DevRel Newsletters
-- [Developer Relations](https://developerrelations.com/newsletter)
-- [DevRelX.com](https://us1.campaign-archive.com/home/?u=f5cdd9d9e59e9c39c83d7b50f&id=2db50cd596)
-- [Developer Newsletter](https://www.contentful.com/blog/tag/developer-newsletter/)
-- [Devrel Weekely](https://devrelweekly.com/)
-- [DX Tips: The DevTools Magazine](https://dx.tips/newsletter)
-- [Tessa Kriesel](https://www.tessakriesel.com/)
-- [DevRel News](https://devrelnews.com/)
-
-# DevRel Communities
-- [DevRel | Developer Advocate](https://twitter.com/i/communities/1518598860435718144)
-- [DevRel Community](https://twitter.com/i/communities/1514267854451122177)
-- [Developer Avocados](https://twitter.com/i/communities/1492185849878007809)
 
 # DevRel Podcasts
 - [The Community-Led Growth Show](https://open.spotify.com/show/7eQhR01Fs098yMZ5qXtvjC?si=fb4b604a05b84452)
