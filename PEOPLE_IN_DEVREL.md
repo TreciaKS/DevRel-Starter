@@ -53,3 +53,9 @@
 | Developer Avocados |https://twitter.com/DevRelAvocados?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
 | Devrel Collective|https://twitter.com/DevRelians?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
 | DevRelCon|https://twitter.com/devrelcon?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
+| DevRel Peeps|https://twitter.com/i/lists/1429519267062501377?s=20|
+| DeveloperRelations.com|https://twitter.com/_devrel?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
+| DevRelate|https://twitter.com/DevRelateio?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
+| DevRel CMS|https://twitter.com/DevrelCMS?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
+| Developer Relations - The Book|https://twitter.com/DevRelBook?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
+| The DeveRel Community|https://twitter.com/DevRelUs?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
