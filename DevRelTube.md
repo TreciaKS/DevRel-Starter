@@ -1,5 +1,6 @@
 # YouTube Videos Based On Developer Relations 📽
 - [How to get started in developer relations | DevRel | Career Development](https://youtu.be/LKvkd7m2wBY)
+- [Let's Discuss: Developer Relations](https://youtu.be/_q_bWATVJTg)
 - [Why DevRel?](https://youtu.be/l7-mCU9Gskg)
 - [Developer Relations: A Complete Guide to what it is, how it works, and whether you need it | DevRel](https://youtu.be/CN4Zzdg49VI)
 - [You Can Be a Developer Advocate Too! - How to Get Started in DevRel with Mahmoud Abdelwahab](https://youtu.be/1tLr_NnUq9I)
