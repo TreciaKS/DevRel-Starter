@@ -1,4 +1,4 @@
-# DevRel-Starter
+# Devrel-Starter
 ![Copy of Grey White Minimalist Twitter Banner (2)](https://user-images.githubusercontent.com/82657928/185651610-17bfb637-cee1-4c7c-9f92-c2b315968265.png)
 
 #### Are you curious about developer relations, also know as DevRel? All infomation that you need to know about DevRel, you can find on this repo that has all the curated resources and information you need for the awesome field of developer relations. 🥑
@@ -8,7 +8,7 @@
 # List Of People In DevRel
 - [Discover new people to follow](https://github.com/TreciaKS/DevRel-Starter/blob/main/PEOPLE_IN_DEVREL.md)
 
-# DevRel Course
+# DevRel Courses
 - [Learn DevRel](https://learndevrel.com/discovery)
 - [Developer Relations Fundamentals](https://www.udemy.com/course/developer-relations-fundamentals-devrel-masterclass-course/)
 - [DevRel Book](https://www.devrelbook.com/)
@@ -45,3 +45,24 @@
 - [DevRel | Developer Advocate](https://twitter.com/i/communities/1518598860435718144)
 - [DevRel Community](https://twitter.com/i/communities/1514267854451122177)
 - [Developer Avocados](https://twitter.com/i/communities/1492185849878007809)
+
+# DevRel Podcasts
+- [The Community-Led Growth Show](https://open.spotify.com/show/7eQhR01Fs098yMZ5qXtvjC?si=fb4b604a05b84452)
+- [DevrRelX Podcast](https://open.spotify.com/show/7DyhFVdj0Pa0aQm4TVLXcT?si=164fdc66b41b45c7)
+- [Developing Communities: The DevRel Podcast](https://open.spotify.com/show/6rxip23OishKIhUxtAdaw7?si=e3ad1f47314a48c0)
+- [DevRel Book Club](https://open.spotify.com/show/74AnWluOPGKanRCeXjAMoc?si=7c08581e531d40c0)
+- [DevRel Roundtable](https://open.spotify.com/show/6fwO2BiQFFtXStgIQoWGGH?si=62b0354e461d400e)
+- [Developer Advocast](https://open.spotify.com/show/1zefaQTuBrN9f2luky3YSi?si=04993eecbc1c486f)
+- [Scaling developer Sucess by Peritus.ai](https://open.spotify.com/show/3fQE1KrmjJJEnfl3H9YKNr?si=4f57c937d3104470)
+- [DevRel Chat](https://open.spotify.com/show/0WM3xtkwbsd2tmh8vDWvp2?si=6fd1f43d9abd4901)
+- [Developer Advocate Stories](https://open.spotify.com/show/0TtxVBcAWVZJKA8GuDMbI0?si=611fe4d993994a8f)
+- [Developer Advocate with Geertjan Wielenga](https://open.spotify.com/episode/1ARPg6U5LKJNQmGTe4Hrf1?si=EnbCutCVSRS6wiL5PGYhgA)
+- [So you want to be a developer advocate](https://open.spotify.com/episode/4DBkTCKYC4B2GWbEgZzyCv?si=d09659aa7f1e46e8)
+- [Developer Relations in 2022](https://open.spotify.com/episode/3pNFDvqYFLePKMF7EQR1Oy?si=-h_4bak2S72M7dpwpR9wUw)
+
+#  Insights into DevRel roles, compensation, hiring practices etc
+- [Developer Relations Compensation Report](https://www.commonroom.io/blog/2022-developer-relations-compensation-report/)
+- [State Of Developer Relations](https://www.stateofdeveloperrelations.com/)
+- [DevRel Collective](https://dev.to/bffjossy/devrel-collective-2021-salary-survey-introduction-40j8)
+- [Layoff.fyi](https://layoffs.fyi/)
+- [Blind Careers](https://www.teamblind.com/search/developer%20relations)
