@@ -8,6 +8,14 @@
 # List Of People In DevRel
 - [Discover new people to follow](https://github.com/TreciaKS/DevRel-Starter/blob/main/PEOPLE_IN_DEVREL.md)
 
+# DevRel Course
+- [Learn DevRel](https://learndevrel.com/discovery)
+- [Developer Relations Fundamentals](https://www.udemy.com/course/developer-relations-fundamentals-devrel-masterclass-course/)
+- [DevRel Book](https://www.devrelbook.com/)
+- [Developer Relations Fundamentals](https://coursetreat.com/alludemy/developer-relations-fundamentals-devrel-masterclass/)
+- [Developer Relations Fundamentals](https://www.freecoursesites.us/developer-relations-fundamentals-devrel-masterclass-2022/)
+- [Developer Relations Fundementals - DevRel Masterclass](https://www.freecoursesites.us/developer-relations-fundamentals-devrel-masterclass-2022/)
+
 # YouTube Videos
 - [Based on creators around DevRel. You'll find vlogs, meetups and roadmaps](https://github.com/TreciaKS/DevRel-Starter/blob/main/DevRelTube.md)
 
