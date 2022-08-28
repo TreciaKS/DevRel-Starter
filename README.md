@@ -7,3 +7,6 @@
 
 # List Of People In DevRel
 - [Discover new people to follow](https://github.com/TreciaKS/DevRel-Starter/blob/main/PEOPLE_IN_DEVREL.md)
+
+# YouTube Videos
+- [Based on creators around DevRel. You'll find vlogs, meetups and roadmaps](https://github.com/TreciaKS/DevRel-Starter/blob/main/DevRelTube.md)
