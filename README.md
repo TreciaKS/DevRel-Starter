@@ -4,3 +4,6 @@
 #### Are you curious about developer relations, also know as DevRel? All infomation that you need to know about DevRel, you can find on this repo that has all the curated resources and information you need for the awesome field of developer relations. 🥑
 
 #### [Do feel free to open a pull request or an issue. ](https://github.com/TreciaKS/DevRel-Starter/blob/main/CONTRIBUTION.md)
+
+# List Of People In DevRel
+- [Discover new people to follow](https://github.com/TreciaKS/DevRel-Starter/blob/main/PEOPLE_IN_DEVREL.md)
