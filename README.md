@@ -5,7 +5,7 @@
 
 #### [Do feel free to open a pull request or an issue. ](https://github.com/TreciaKS/DevRel-Starter/blob/main/CONTRIBUTION.md)
 
-# List Of People In DevRel
+# People In DevRel
 - [Discover new people to follow](https://github.com/TreciaKS/DevRel-Starter/blob/main/PEOPLE_IN_DEVREL.md)
 
 # YouTube Videos
@@ -21,7 +21,6 @@
 - [Developer Relations Fundamentals](https://www.udemy.com/course/developer-relations-fundamentals-devrel-masterclass-course/)
 - [DevRel Book](https://www.devrelbook.com/)
 - [Developer Relations Fundamentals](https://coursetreat.com/alludemy/developer-relations-fundamentals-devrel-masterclass/)
-- [Developer Relations Fundamentals](https://www.freecoursesites.us/developer-relations-fundamentals-devrel-masterclass-2022/)
 - [Developer Relations Fundementals - DevRel Masterclass](https://www.freecoursesites.us/developer-relations-fundamentals-devrel-masterclass-2022/)
 
 # DevRel Newsletters
@@ -32,7 +31,7 @@
 - [DX Tips: The DevTools Magazine](https://dx.tips/newsletter)
 - [Tessa Kriesel](https://www.tessakriesel.com/)
 - [DevRel News](https://devrelnews.com/)
-- 
+
 # DevRel Jobs 
 - [Jobs In Devrel](https://twitter.com/JobsInDevRel?s=20&t=xkf0oR_2hMOCEANMP_a9DQ)
 - [DevRel.jobs](https://twitter.com/DevRel_Jobs?s=20&t=xkf0oR_2hMOCEANMP_a9DQ)
