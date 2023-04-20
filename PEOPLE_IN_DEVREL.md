@@ -35,6 +35,7 @@
 | Chakit|https://twitter.com/arorachakit?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
 | Angie Jones|https://twitter.com/techgirl1908?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
 | Ahmad Awais|https://twitter.com/MrAhmadAwais?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
+| Kelvin Omereshone|https://twitter.com/Dominus_Kelvin|
 
 
 # People In Developer Relations Web 3 🥑
