@@ -65,3 +65,4 @@
 - [DevRel Collective](https://dev.to/bffjossy/devrel-collective-2021-salary-survey-introduction-40j8)
 - [Layoff.fyi](https://layoffs.fyi/)
 - [Blind Careers](https://www.teamblind.com/search/developer%20relations)
+- [DevRel Origin Stories](https://developerrelations.com//devrel-origin-stories)
