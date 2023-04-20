@@ -40,7 +40,7 @@
 # People In Developer Relations Web 3 🥑
 | Person           | Link |
 | ------------- |------------- |
-| Francesco Cuilla |https://twitter.com/FrancescoCiull4?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
+| Francesco Ciulla |https://twitter.com/FrancescoCiull4?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
 | Pratim Bhosale |https://twitter.com/BhosalePratim?s=20&t=xkf0oR_2hMOCEANMP_a9DQ |
 | Raza Rython|https://twitter.com/razacodes?s=20&t=xkf0oR_2hMOCEANMP_a9DQ |
 | Vitto Rivabella|https://twitter.com/VittoStack?s=20&t=xkf0oR_2hMOCEANMP_a9DQ |
@@ -59,3 +59,4 @@
 | DevRel CMS|https://twitter.com/DevrelCMS?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
 | Developer Relations - The Book|https://twitter.com/DevRelBook?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
 | The DeveRel Community|https://twitter.com/DevRelUs?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
+| DevRel Unlocked series|https://www.youtube.com/watch?v=vI6bQJ463Sc&list=PLPoSdR46FgI7H0SVOqSS_bNaIep8RkVCT&index=1&ab_channel=FrancescoCiulla|
