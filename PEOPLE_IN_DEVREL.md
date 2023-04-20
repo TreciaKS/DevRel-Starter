@@ -47,7 +47,7 @@
 | Favor |https://twitter.com/heyOnuoha?s=20&t=xkf0oR_2hMOCEANMP_a9DQ |
 | Nader |https://twitter.com/dabit3?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
 
-# Developer Relations Resources 🥑
+# Developer Relations Twitter Accounts 🥑
 | Person           | Link |
 | ------------- |------------- |
 | Developer Avocados |https://twitter.com/DevRelAvocados?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
