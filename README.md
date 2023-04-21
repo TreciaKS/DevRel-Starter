@@ -44,6 +44,7 @@
 - [JobsInDevrel.com](https://jobsindevrel.com/place/remote)
 - [Devrel Collective](https://devrelcollective.fun/#jobs)
 - [DevRel Weekely Jobs](https://raindrop.io/mary27/dev-rel-weekly-jobs-10525990)
+- [DevRel Careers](https://devrelcareers.com/)
 
 # DevRel Podcasts
 - [The Community-Led Growth Show](https://open.spotify.com/show/7eQhR01Fs098yMZ5qXtvjC?si=fb4b604a05b84452)
