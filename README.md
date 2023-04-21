@@ -31,6 +31,7 @@
 - [DX Tips: The DevTools Magazine](https://dx.tips/newsletter)
 - [Tessa Kriesel](https://www.tessakriesel.com/)
 - [DevRel News](https://devrelnews.com/)
+- [DevRel newsletter from Richard Rodger, CEO of Voxgig](https://voxgig.substack.com/)
 
 # DevRel Jobs 
 - [Jobs In Devrel](https://twitter.com/JobsInDevRel?s=20&t=xkf0oR_2hMOCEANMP_a9DQ)
@@ -44,6 +45,7 @@
 - [JobsInDevrel.com](https://jobsindevrel.com/place/remote)
 - [Devrel Collective](https://devrelcollective.fun/#jobs)
 - [DevRel Weekely Jobs](https://raindrop.io/mary27/dev-rel-weekly-jobs-10525990)
+- [DevRel Careers](https://devrelcareers.com/)
 
 # DevRel Podcasts
 - [The Community-Led Growth Show](https://open.spotify.com/show/7eQhR01Fs098yMZ5qXtvjC?si=fb4b604a05b84452)
