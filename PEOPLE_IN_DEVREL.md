@@ -36,6 +36,11 @@
 | Angie Jones|https://twitter.com/techgirl1908?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
 | Ahmad Awais|https://twitter.com/MrAhmadAwais?s=20&t=xkf0oR_2hMOCEANMP_a9DQ|
 | Kelvin Omereshone|https://twitter.com/Dominus_Kelvin|
+| Tessa Mero | https://twitter.com/TessaMero |
+| Haimantika Mitra | https://twitter.com/HaimantikaM |
+| Wen Yu Ge | https://twitter.com/WenYuGe1 |
+| Jyoti Bisht | https://twitter.com/joeyousss |
+| Aditya Oberai | https://twitter.com/adityaoberai1 |
 
 
 # People In Developer Relations Web 3 🥑
