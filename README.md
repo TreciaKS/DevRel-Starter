@@ -17,7 +17,7 @@
 - [Developer Avocados](https://twitter.com/i/communities/1492185849878007809)
 
 # DevRel Courses
-- [Learn DevRel](https://learndevrel.com/discovery)
+- [Learn DevRel](https://www.learndevrel.com/)
 - [Developer Relations Fundamentals](https://www.udemy.com/course/developer-relations-fundamentals-devrel-masterclass-course/)
 - [DevRel Book](https://www.devrelbook.com/)
 - [Developer Relations Fundamentals](https://coursetreat.com/alludemy/developer-relations-fundamentals-devrel-masterclass/)
