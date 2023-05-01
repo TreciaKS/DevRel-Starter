@@ -48,6 +48,7 @@
 - [DevRel Careers](https://devrelcareers.com/)
 
 # DevRel Podcasts
+- [Community Pulse](https://www.communitypulse.io/)
 - [The Community-Led Growth Show](https://open.spotify.com/show/7eQhR01Fs098yMZ5qXtvjC?si=fb4b604a05b84452)
 - [DevrRelX Podcast](https://open.spotify.com/show/7DyhFVdj0Pa0aQm4TVLXcT?si=164fdc66b41b45c7)
 - [Developing Communities: The DevRel Podcast](https://open.spotify.com/show/6rxip23OishKIhUxtAdaw7?si=e3ad1f47314a48c0)
